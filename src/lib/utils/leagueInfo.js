@@ -134,7 +134,7 @@ export const managers = [
   
      {
        "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Sam",
+       "name": "Ciaran",
        "tookOver": 2019, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Clare?", // (optional)
        "bio": "Lorem ipsum...",
@@ -261,7 +261,7 @@ export const managers = [
      },
      {
        "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Ciaran",
+       "name": "Sam",
        "tookOver": 2019, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Dublin", // (optional)
        "bio": "Lorem ipsum...",
