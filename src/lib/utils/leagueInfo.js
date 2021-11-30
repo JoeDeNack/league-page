@@ -8,7 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome to the league page for The Hills have (black) eyes (and broken arms).</p>
-  <p>Testing new commit</p>
+  <p>Testing new commit v2</p>
   <p>Third line</p>
   <p>fourth line. </p>
   <p>Fifth line</p>
